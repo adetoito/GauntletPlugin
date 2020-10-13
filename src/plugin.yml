@@ -1,0 +1,17 @@
+name: Gauntlet
+version: 1.0
+author: SargeAlpha
+main: com.sargealpha.gauntlet.Main
+description: Gauntlet mini-game.
+
+commands:
+  gstart:
+    description: (ADMIN) Starts the Gauntlet game.
+  gstop:
+    description: (ADMIN) Force-stops Gauntlet game.
+  gnext:
+    description: (ADMIN) Forces the game to move to the next wave.
+  gkits:
+    description: Gets the menu of kits for Gauntlet.
+  grestore:
+    description: Replenishes all items from chosen kit.
